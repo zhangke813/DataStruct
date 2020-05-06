@@ -1,6 +1,7 @@
 package com.study.array;
 
 public class DynamicArray<E> {
+    //测试github
     //动态数组
     //实现基本思想(定长数组实现动态数组的)：
     //1、实现过程：首先先申请一个定长的数组空间Original，定义一个int型的数据len，记录当前已使用的空间大小，
